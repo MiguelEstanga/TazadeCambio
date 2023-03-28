@@ -181,7 +181,7 @@
               CURLOPT_URL => "https://api.apilayer.com/exchangerates_data/convert?to={$this->countries[$nombrepais1]}&from={$this->countries[$nombrepais2]}&amount={$cantidad}",
               CURLOPT_HTTPHEADER => array(
                 "Content-Type: text/plain",
-                "apikey: 4ZguLz8DcnG5v1dcHB8BMmDBKoz0WdXm"
+                "apikey: WWMRlrq561ibWkz2XIbxk6hxjVAReRp1"
               ),
               CURLOPT_RETURNTRANSFER => true,
               CURLOPT_ENCODING => "",
